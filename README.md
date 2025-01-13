@@ -29,7 +29,7 @@
 	```
 2. Branch from updated local main
 	```
-git checkout -b myBranch
+	git checkout -b myBranch
 	```
 3. Work in local branch, committing frequently
 	```
